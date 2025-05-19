@@ -1,0 +1,4 @@
+pwd: Print working directory 
+cd: Change Directory
+chmod: Modify permissions of a file 
+ls: List files in a directory
